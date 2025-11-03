@@ -33,7 +33,7 @@ Proje dört ana bileşenden oluşuyor:
 
 | Ana Sayfa | Tırnak Anomalileri | Analiz Sonucu |
 |--------------|---------------|---------------|
-| ![Mobil Arayüz](./app_screenshot1.jpg) | ![Tırnak Anomalileri](./app_screenshot2.jpg) | ![Analiz Sonucu](./app_screenshot3.png) |
+| ![Mobil Arayüz](./app_screenshot1.jpg) | ![Tırnak Anomalileri](./app_screenshot3.jpg) | ![Analiz Sonucu](./app_screenshot2.jpg) |
 
 ## 🧩 Kullanılan Teknolojiler
 
