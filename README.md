@@ -31,10 +31,10 @@ Proje dört ana bileşenden oluşuyor:
 
 **Mobil Arayüz Örnekleri**  
 ---
-![Mobil Arayüz](./app_screenshot1.jpg)  
-![Tırnak Anomalileri](./app_screenshot3.jpg)
-![Analiz Sonucu](./app_screenshot2.jpg)
 
+| Mobil Arayüz | Tırnak Anomalileri | Analiz Sonucu |
+|--------------|---------------|---------------|
+| ![Mobil Arayüz](./app_screenshot1.jpg) | ![Tırnak Anomalileri](./app_screenshot3.jpg) | ![Analiz Sonucu](./images/app_screenshot2.png) |
 
 ## 🧩 Kullanılan Teknolojiler
 
