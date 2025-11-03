@@ -30,6 +30,7 @@ Proje dört ana bileşenden oluşuyor:
 > Aşağıdaki görseller tamamen proje ekibine aittir. Yayın veya paylaşım için izin gerekmektedir.
 
 **Mobil Arayüz Örnekleri**  
+---
 ![Mobil Arayüz](./app_screenshot1.jpg)  
 ![Tırnak Anomalileri](./app_screenshot3.jpg)
 ![Analiz Sonucu](./app_screenshot2.jpg)
